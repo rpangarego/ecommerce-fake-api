@@ -1,4 +1,4 @@
-# eCommerce Shop
+# eCommerce Shop - Fake API
 
 Welcome to the **eCommerce Shop**! This project is a modern, responsive online store built using ReactJS and TailwindCSS. It demonstrates how to create a dynamic shopping experience with a clean, user-friendly interface and powerful features.
 
